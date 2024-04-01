@@ -1,6 +1,6 @@
 import openai
 
-open_ai_key="sk-NXXrb0gyGwNQeCmJ549a5c17927d4a94A73d14Aa323dF6F8"
+open_ai_key=""
 openai.api_key = open_ai_key
 openai.api_base = "https://openkey.cloud/v1" # 换成代理，一定要加v1
 
