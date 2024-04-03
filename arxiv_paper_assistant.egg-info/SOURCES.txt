@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+arxiv_paper_assistant/__init__.py
+arxiv_paper_assistant/api.py
+arxiv_paper_assistant/query.py
+arxiv_paper_assistant.egg-info/PKG-INFO
+arxiv_paper_assistant.egg-info/SOURCES.txt
+arxiv_paper_assistant.egg-info/dependency_links.txt
+arxiv_paper_assistant.egg-info/requires.txt
+arxiv_paper_assistant.egg-info/top_level.txt

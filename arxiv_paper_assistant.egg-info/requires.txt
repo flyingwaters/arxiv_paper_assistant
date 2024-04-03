@@ -1,0 +1,4 @@
+feedparser
+arxiv
+tqdm
+openai
