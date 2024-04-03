@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-arxiv_search_assistant.egg-info/PKG-INFO
-arxiv_search_assistant.egg-info/SOURCES.txt
-arxiv_search_assistant.egg-info/dependency_links.txt
-arxiv_search_assistant.egg-info/requires.txt
-arxiv_search_assistant.egg-info/top_level.txt

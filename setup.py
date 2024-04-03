@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='arxiv_search_assistant',
-    version='0.1',
+    name='arxiv_paper_assistant',
+    version='1.0',
     description='An Python Package to help you search the arxiv api and use gpt-3.5-turbo to generate one Chinese sentence from the summary.',
     packages=find_packages(),
     python_requires='>=3.9',
