@@ -1,4 +1,4 @@
-from api import  search_by_url, search_by_api, open_ai_setting
+from arxiv_paper_assistant.api import  search_by_url, search_by_api, open_ai_setting
 import arxiv
 # max_results 一次最大300000 超过分次导出
 
