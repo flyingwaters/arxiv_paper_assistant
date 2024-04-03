@@ -15,7 +15,7 @@
 ******************
 ## 📥 安装(installation)
 ```python
-pip install arxiv_paper_assistant
+pip install arxiv-paper-assistant
 ```
 或者 or
 ```bash
