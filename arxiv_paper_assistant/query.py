@@ -21,6 +21,3 @@ def search_in_arxiv(query = 'ti:benchmark+AND+cat:cs.CL', start_time = "20230201
         query = query.replace("+", " ")
         search_by_api(query, max_result, output_name, sort_order)
 
-if __name__ == "__main__":
-    open_ai_setting(open_ai_key="sk-JD4xQJ5Baie2mvnU75Fa3fA9767d40DcB5Ad1e8610Bf0101", open_ai_base_url="https://openkey.cloud/v1" )
-    search_in_arxiv()
