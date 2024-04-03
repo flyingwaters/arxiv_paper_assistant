@@ -15,18 +15,18 @@
 ******************
 ## 📥 安装(installation)
 ```python
-pip install paper_search_assistant
+pip install arxiv_paper_assistant
 ```
 或者 or
 ```bash
-git clone https://github.com/flyingwaters/paper_search_assistant.git
-cd paper_search_assistant
+git clone https://github.com/flyingwaters/arxiv_paper_assistant.git
+cd arxiv_paper_assistant
 python setup.py install
 ```
 *************************
 ## 💻 用法(usage)
 ```python
-from paper_search_assistant import open_ai_setting, search_in_arxiv
+from arxiv_paper_assistant import open_ai_setting, search_in_arxiv
 
 open_ai_setting(open_ai_key="open_ai_api_tokens", open_ai_base_url="https://openkey.cloud/v1" )
 
